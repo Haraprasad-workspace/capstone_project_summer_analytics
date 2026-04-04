@@ -1,3 +1,3 @@
-SECRET_KEY=9f8d7andjsnfnkfc3456789abcharibdbbdwdk
+SECRET_KEY=9f8d7andjsnfnkfc345677fdi8bd8efwi
 API_KEY=9f8d7a63d2f1a0b123456buif94320ru34rfn909n
 GEMINI_API_KEY=9f8d7a63d2f1a0b12345ndius90w-=bbdwdk
